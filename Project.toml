@@ -1,0 +1,11 @@
+name = "DSBenchmarking"
+uuid = "c774c01b-2143-427d-bbe3-7964e827766b"
+authors = ["Ed <edwardstables1198@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+DirectSearch = "9d7617aa-e122-4445-bdd0-98866dcb605d"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+Tables = "bd369af6-aec1-5ad0-b16a-f7cc5008161c"
